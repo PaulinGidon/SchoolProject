@@ -1,134 +1,31 @@
-# \##Français##
+# Projets en cours
 
-# \# \*\*Projets en cours – Paulin Gidon\*\*
+Voici les projets que je réalise actuellement durant mes études. Je ne publie que les projets finis pour garder une arborescence propre, mais je documente ici ceux en cours :
 
-# 
+### 1. Faux site de médiathèque
+- **Description :** Projet centré sur le développement web, permettant la location de livres, films et séries.
+- **Langages utilisés :** PHP, HTML/CSS, JavaScript, et autres.
+- **Avancement :** En cours, prévu d’être terminé **mi-janvier**.
 
-# Actuellement, je travaille sur deux projets principaux. Ces projets ne sont pas encore terminés et seront ajoutés à la liste des projets finis une fois finalisés.
+### 2. Jeu de cartes multijoueur en réseau
+- **Description :** Projet centré sur le développement logiciel avec client et serveur.
+- **Partie client :** Codée en Java avec interface utilisateur en JavaFX.
+- **Partie serveur :** Codée en C, avec gestion des données via blockchain et base de données en utilisant libpq_fe.
+- **Avancement :** En cours, prévu d’être terminé **16 janvier**.
 
-# 
+---
 
-# ---
+# Ongoing Projects
 
-# 
+Here are the projects I am currently working on during my studies. Only completed projects are published to keep a clean structure, but the ongoing ones are documented here:
 
-# \## 1. \*\*Faux site de médiathèque\*\*
+### 1. Fake Media Library Website
+- **Description:** A web development project allowing the rental of books, movies, and series.
+- **Languages used:** PHP, HTML/CSS, JavaScript, and others.
+- **Progress:** In progress, expected to be completed by **mid-January**.
 
-# 
-
-# Un site web simulant la location de livres, films et séries.
-
-# 
-
-# \- \*\*Technologies utilisées :\*\* PHP, HTML/CSS, JavaScript, et autres.
-
-# \- \*\*Objectif :\*\* Projet centré sur le développement web.
-
-# \- \*\*Avancement :\*\* En cours, prévu pour être terminé d’ici mi-janvier.
-
-# 
-
-# ---
-
-# 
-
-# \## 2. \*\*Jeu de cartes multijoueur en réseau\*\*
-
-# 
-
-# Un jeu de cartes en réseau avec gestion client-serveur.
-
-# 
-
-# \- \*\*Technologies utilisées :\*\*  
-
-# &nbsp; - Java : développement du client avec interface graphique en JavaFX  
-
-# &nbsp; - C : développement du serveur et gestion de l’enregistrement des données via une blockchain et une base de données avec `libpq\_fe`
-
-# \- \*\*Objectif :\*\* Projet centré sur le développement logiciel et réseau.
-
-# \- \*\*Avancement :\*\* En cours, prévu pour être terminé d’ici le 16 janvier.
-
-# 
-
-# ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# \##English##
-
-
-
-# \# \*\*Ongoing Projects – Paulin Gidon\*\*
-
-# 
-
-# Currently, I am working on two main projects. These projects are not yet finished and will be added to the list of completed projects once finalized.
-
-# 
-
-# ---
-
-# 
-
-# \## 1. \*\*Mock Media Library Website\*\*
-
-# 
-
-# A website simulating the rental of books, movies, and series.
-
-# 
-
-# \- \*\*Technologies used:\*\* PHP, HTML/CSS, JavaScript, and others.
-
-# \- \*\*Objective:\*\* Web development-focused project.
-
-# \- \*\*Progress:\*\* Ongoing, expected to be completed by mid-January.
-
-# 
-
-# ---
-
-# 
-
-# \## 2. \*\*Multiplayer Network Card Game\*\*
-
-# 
-
-# A networked card game with client-server management.
-
-# 
-
-# \- \*\*Technologies used:\*\*  
-
-# &nbsp; - Java: Client development with a JavaFX graphical interface  
-
-# &nbsp; - C: Server development and data recording using a blockchain and a database with `libpq\_fe`
-
-# \- \*\*Objective:\*\* Software and network development-focused project.
-
-# \- \*\*Progress:\*\* Ongoing, expected to be completed by January 16.
-
-# 
-
-# ---
-
-# 
-
-
-
-
-
+### 2. Multiplayer Network Card Game
+- **Description:** A software development project with client and server components.
+- **Client side:** Developed in Java with a JavaFX user interface.
+- **Server side:** Developed in C, managing data via blockchain and a database using libpq_fe.
+- **Progress:** In progress, expected to be completed by **January 16th**.
