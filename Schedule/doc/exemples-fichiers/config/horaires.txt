@@ -1,0 +1,7 @@
+[CM]
+durée: 1
+horaires: 08:00, 09:00
+
+[TD]
+durée: 2
+horaires: 10:15, 13:30, 15:45

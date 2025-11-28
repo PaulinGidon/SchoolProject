@@ -1,0 +1,86 @@
+# semaine 13
+
+## LUNDI
+  * 08:00 - 09:00
+    CM R201 (CHEVALIER Laura)
+  * 09:00 - 10:00
+    CM R210 (MARTIN Adrien)
+  * 10:15 - 12:15
+    TD-G4 R206 (CHEVALIER Laura)
+    TD-G3 R201 (GARNIER Yanis)
+    TD-G1 R213 (DAVID Quentin)
+    TD-G2 R204 (ROUSSEL Marie)
+  * 13:30 - 15:30
+    TD-G2 R201 (CHEVALIER Laura)
+    TD-G1 R206 (LAURENT Louis)
+    TD-G3 R214 (DAVID Quentin)
+    TD-G4 R210 (MARTIN Adrien)
+  * 15:45 - 17:45
+    TD-G4 R201 (CHEVALIER Laura)
+    TD-G3 R210 (GARNIER Yanis)
+    TD-G1 R212 (DURAND Noah)
+
+## MARDI
+  * 08:00 - 09:00
+    CM R201 (CHEVALIER Laura)
+  * 09:00 - 10:00
+  * 10:15 - 12:15
+    TD-G4 R206 (CHEVALIER Laura)
+    TD-G3 R201 (GARNIER Yanis)
+    TD-G2 R213 (DAVID Quentin)
+    TD-G1 R204 (ROUSSEL Marie)
+  * 13:30 - 15:30
+    TD-G1 R201 (CHEVALIER Laura)
+    TD-G2 R206 (LAURENT Louis)
+    TD-G4 R214 (DAVID Quentin)
+    TD-G3 R204 (HENRY Emilie)
+  * 15:45 - 17:45
+    TD-G4 R201 (CHEVALIER Laura)
+    TD-G2 R212 (DURAND Noah)
+
+## MERCREDI
+  * 08:00 - 09:00
+    CM R204 (ROUSSEL Marie)
+  * 09:00 - 10:00
+  * 10:15 - 12:15
+    TD-G1 R201 (CHEVALIER Laura)
+    TD-G3 R206 (GARNIER Yanis)
+    TD-G4 R213 (DAVID Quentin)
+    TD-G2 R207 (LEROY Yanis)
+  * 13:30 - 15:30
+    TD-G2 R201 (CHEVALIER Laura)
+    TD-G1 R206 (LAURENT Louis)
+    TD-G3 R207 (LEROY Yanis)
+    TD-G4 R212 (DURAND Noah)
+  * 15:45 - 17:45
+
+## JEUDI
+  * 08:00 - 09:00
+    CM R206 (CHEVALIER Laura)
+  * 09:00 - 10:00
+  * 10:15 - 12:15
+    TD-G2 R201 (CHEVALIER Laura)
+    TD-G1 R210 (GARNIER Yanis)
+    TD-G3 R213 (DAVID Quentin)
+    TD-G4 R204 (FONTAINE Alexis)
+  * 13:30 - 15:30
+    TD-G3 R201 (GARNIER Yanis)
+    TD-G2 R206 (LAURENT Louis)
+    TD-G1 R214 (DAVID Quentin)
+  * 15:45 - 17:45
+
+## VENDREDI
+  * 08:00 - 09:00
+    CM R207 (LEROY Yanis)
+  * 09:00 - 10:00
+  * 10:15 - 12:15
+    TD-G1 R201 (CHEVALIER Laura)
+    TD-G3 R206 (GARNIER Yanis)
+    TD-G2 R214 (DAVID Quentin)
+    TD-G4 R207 (LEROY Yanis)
+  * 13:30 - 15:30
+    TD-G4 R201 (CHEVALIER Laura)
+    TD-G1 R207 (LEROY Yanis)
+    TD-G2 R210 (MARTIN Adrien)
+    TD-G3 R212 (DURAND Noah)
+  * 15:45 - 17:45

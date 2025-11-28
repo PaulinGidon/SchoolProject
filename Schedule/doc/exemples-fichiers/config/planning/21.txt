@@ -1,0 +1,63 @@
+# semaine 21
+
+## LUNDI
+  * 08:00 - 09:00
+    CM R202 (CHEVALIER Laura)
+  * 09:00 - 10:00
+  * 10:15 - 12:15
+    TD-G1 R202 (CHEVALIER Laura)
+    TD-G2 R205 (FONTAINE Alexis)
+    TD-G3 R209 (GARCIA Paul)
+    TD-G4 R211 (GAUTHIER Jules)
+  * 13:30 - 15:30
+    TD-G2 R212 (DURAND Noah)
+    TD-G1 R213 (DAVID Quentin)
+  * 15:45 - 17:45
+
+## MARDI
+  * 08:00 - 09:00
+    CM R205 (ROUSSEL Marie)
+  * 09:00 - 10:00
+  * 10:15 - 12:15
+    TD-G2 R202 (CHEVALIER Laura)
+    TD-G1 R205 (ROUSSEL Marie)
+    TD-G4 R209 (GARCIA Paul)
+    TD-G3 R211 (GAUTHIER Jules)
+  * 13:30 - 15:30
+    TD-G3 R212 (DURAND Noah)
+    TD-G4 R213 (DAVID Quentin)
+  * 15:45 - 17:45
+
+## MERCREDI
+  * 08:00 - 09:00
+    CM R211 (GAUTHIER Jules)
+  * 09:00 - 10:00
+  * 10:15 - 12:15
+    TD-G3 R202 (MARTIN Adrien)
+    TD-G4 R205 (FONTAINE Alexis)
+    TD-G1 R209 (LEROY Yanis)
+    TD-G2 R211 (GAUTHIER Jules)
+  * 13:30 - 15:30
+    TD-G4 R212 (DURAND Noah)
+    TD-G3 R213 (DAVID Quentin)
+  * 15:45 - 17:45
+
+## JEUDI
+  * 08:00 - 09:00
+  * 09:00 - 10:00
+  * 10:15 - 12:15
+    TD-G4 R202 (MARTIN Adrien)
+    TD-G3 R205 (ROUSSEL Marie)
+    TD-G2 R209 (LEROY Yanis)
+    TD-G1 R211 (GAUTHIER Jules)
+  * 13:30 - 15:30
+  * 15:45 - 17:45
+
+## VENDREDI
+  * 08:00 - 09:00
+  * 09:00 - 10:00
+  * 10:15 - 12:15
+    TD-G1 R212 (DURAND Noah)
+    TD-G2 R213 (DAVID Quentin)
+  * 13:30 - 15:30
+  * 15:45 - 17:45

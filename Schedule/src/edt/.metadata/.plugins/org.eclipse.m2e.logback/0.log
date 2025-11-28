@@ -1,0 +1,2 @@
+2025-05-13 10:46:02,659 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-05-13 10:50:20,955 [ForkJoinPool.commonPool-worker-2] WARN  org.eclipse.jgit.util.FS - Thread[#102,ForkJoinPool.commonPool-worker-2,5,main]: got smaller file timestamp on /mnt/c (C:\), /mnt/c/Users/pauli/SAE201/edt/.git: 2025-05-13T08:50:20Z < 2025-05-13T08:50:20.8906439Z. Aborting measurement at resolution PT0.1093561S.
