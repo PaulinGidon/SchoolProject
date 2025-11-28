@@ -1,0 +1,6 @@
+#include "affiJeux.h"
+#include "canon.h"
+#include "change.h"
+#include "importTXT.h"
+#include "menu.h"
+#include "rand.h"
